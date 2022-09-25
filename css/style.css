@@ -1,0 +1,39 @@
+.jumbotron img {
+	width: 250px;
+	border: 3px solid #999;
+	border-radius: 50%;
+
+}
+.jumbotron {
+	background-color: black;
+	color: #fff;
+}
+hr {
+	width: 320px;
+	border-top: 3px solid #999;
+}
+#hat {
+	width: 300px;
+	height: 50px;
+	background-color: black;
+	color: #fff;
+	padding: 5px;
+}
+section .about #about {
+	background-color: #eee;
+}
+li {
+	color: darkblue;
+	text-align: !important;
+}
+h3 {
+	text-decoration: underline;
+}
+#hat2 {
+	margin-top: 5px;
+	width: 300px;
+	height: 100px;
+	background-color: black;
+	color: #fff;
+	padding: 2px;
+}
